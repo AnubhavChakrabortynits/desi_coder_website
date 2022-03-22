@@ -1,0 +1,27 @@
+body
+{   background-size: cover;
+    background-image: url("desi.jpeg");
+    font-weight:900;
+    font-size: 25px;
+    color:black;
+    font-style: oblique;
+    font-family:'Algerian';
+    font-weight: 600;
+    text-align: center;
+
+}
+#desi
+{
+    font-size:1em;
+    color: red;
+    text-align: center;
+    background-image: url("desi3.jpg");
+    background-position-y: center;
+    background-size: cover;
+    padding:0.2px;
+}
+.characters
+{
+    margin-left: auto;
+  margin-right: auto;
+}
